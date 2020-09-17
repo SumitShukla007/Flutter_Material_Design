@@ -40,7 +40,7 @@
 
 
 ### This project helped you? Buy me a coffee to support me!
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/sumitshukla007)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/sumitshukla007)
 
 ### Contribution
 I would love to review any changes that you submit, so check out the source, pick a bug or feature, and file a PR.
