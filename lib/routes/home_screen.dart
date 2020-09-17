@@ -78,7 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
         pageBuilder: (context, animation, anotherAnimation) {
           return screen;
         },
-        transitionDuration: Duration(milliseconds: 1000),
+        transitionDuration: Duration(milliseconds: 500),
         transitionsBuilder: (context, animation, anotherAnimation, child) {
           animation = CurvedAnimation(curve: Curves.linear, parent: animation);
           return SlideTransition(
