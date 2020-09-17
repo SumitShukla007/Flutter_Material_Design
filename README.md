@@ -45,6 +45,9 @@
 ### Contribution
 I would love to review any changes that you submit, so check out the source, pick a bug or feature, and file a PR.
 
+### :heart: Found this project useful?
+If you found this project useful, then please consider giving it a :star: on Github.
+
 ## Contact
 If you need any help, you can connect with me.
 
