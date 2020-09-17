@@ -4,7 +4,7 @@
 
 - This is a demo app created using [Flutter](https://flutter.dev/) by Google.
 
-- Google Play: [Flutter Material Design](https://play.google.com/store/apps/details?id=com.fluttermaterialdesign).
+- Google Play: [Flutter Material Design](https://play.google.com/store/apps/details?id=com.materialdesignflutter).
 - Google Play: [Android Material Design](https://play.google.com/store/apps/details?id=com.sumit.mymaterialdesign).
 
  #### Features :
